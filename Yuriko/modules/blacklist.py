@@ -487,7 +487,7 @@ Note:
 
 ✗ *<sticker link> can be* `https://t.me/addstickers/<sticker>` *or just* `<sticker>` *or reply to the sticker message*
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: BᴏᴛDᴜɴɪʏᴀ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
 """
 BLACKLIST_HANDLER = DisableAbleCommandHandler(
     "blacklist",
