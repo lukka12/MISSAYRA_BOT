@@ -7,7 +7,7 @@
   <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/HDNETWORKOP"><img src="https://te.legra.ph/file/b96a5a9698dbf1cf5201a.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/HDNETWORKOP"><img src="https://te.legra.ph/file/d297b40e9b13f1b5f81fb.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/issues"> <img src="https://img.shields.io/github/issues/KASHYAP-HD/MISSAYRA_BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
