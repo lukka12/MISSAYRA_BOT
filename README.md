@@ -36,7 +36,7 @@ The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
  
 # ❤️ Support
 <a href="https://t.me/HDNETWORKOP"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/hDfamaily"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a
+<a href="https://t.me/hDfamaily"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Commands ❤️
 
