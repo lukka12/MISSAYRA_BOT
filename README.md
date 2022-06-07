@@ -1,7 +1,7 @@
 
-<h1 align="center"><b>❤️ Miss Arya Management Bot ❤️</b></h1>
+<h1 align="center"><b> ♡ Miss Arya Management Bot ♡ </b></h1>
 
-<h4 align="center">Miss Arya A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
+<h4 align="center">Miss Arya A Powerful, Smart And Simple Group Manager <br>Written with AioGram , Pyrogram and Telethon</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
@@ -11,7 +11,6 @@
 
 <p align="center">
     <a href="https://app.codacy.com/manual/KASHYAP-HD/MISSAYRA_BOT/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/"> <img src="https://img.shields.io/github/repo-size/KASHYAP-HD/MISSAYRA_BOT?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/issues"> <img src="https://img.shields.io/github/issues/KASHYAP-HD/MISSAYRA_BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/network/members""> <img src="https://img.shields.io/github/forks/KASHYAP-HD/MISSAYRA_BOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
@@ -19,7 +18,7 @@
 
 > ⭐️ Thanks to everyone for using Miss Arya, That is the greatest pleasure we have !
 
-## Avaiilable on Telegram as [@hDfamaily](https://t.me/hDfamaily)
+## Avaiilable on Telegram as [@HDfamaily](https://t.me/hDfamaily)
 
 ## ✨ Easy To Deploy Direct In Repo✨
 
