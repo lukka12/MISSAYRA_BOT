@@ -10,7 +10,6 @@
 <p align="center"><a href="https://t.me/HDNETWORKOP"><img src="https://te.legra.ph/file/b96a5a9698dbf1cf5201a.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/KASHYAP-HD/MISSAYRA_BOT/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/issues"> <img src="https://img.shields.io/github/issues/KASHYAP-HD/MISSAYRA_BOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/network/members""> <img src="https://img.shields.io/github/forks/KASHYAP-HD/MISSAYRA_BOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
