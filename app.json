@@ -1,5 +1,5 @@
 {
-      "name": "Yuriko Robot",
+      "name": "Ayra Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/1495fab0586fe05160204.jpg",  
-   "repository": "https://github.com/AMANTYA1/Yuriko",
+   "logo":    "https://te.legra.ph/file/9f45226e80933720bc7cc.jpg",  
+   "repository": "https://github.com/KASHYAP-HD/MISSAYRA_BOT",
    "addons": [
           {
          "options": {
@@ -51,7 +51,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1920507972"
+         "value": "2111688589"
      },
 
       "HEROKU_API_KEY": {
@@ -64,7 +64,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "YurikoRobot"
+         "value": ""
       },
 
       "BOT_ID": {
@@ -74,12 +74,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Shubhanshutya"
+         "value": "KASHYAP_IS_PRO"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "godzilla_chatting"
+         "value": "hDfamaily"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -196,7 +196,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://t.me/KASHYAP_IS_PRO"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
