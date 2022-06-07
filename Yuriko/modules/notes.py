@@ -584,7 +584,7 @@ __help__ = """
 
  *Note:* `Note names are case-insensitive, and they are automatically converted to lowercase before getting saved.`
 
-✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: BᴏᴛDᴜɴɪʏᴀ!*
+✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
 """
 
 __mod_name__ = "Nᴏᴛᴇꜱ"
