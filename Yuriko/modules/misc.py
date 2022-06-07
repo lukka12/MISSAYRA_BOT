@@ -226,7 +226,7 @@ __help__ = """
 
 ✗ /lyrics (song name) - `This plugin searches for song lyrics with song name.`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: BᴏᴛDᴜɴɪʏᴀ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
 """
 
 ECHO_HANDLER = DisableAbleCommandHandler(
