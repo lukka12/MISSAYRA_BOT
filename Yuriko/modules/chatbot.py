@@ -40,7 +40,7 @@ def kukirm(update: Update, context: CallbackContext) -> str:
             )
         else:
             update.effective_message.edit_text(
-                "Yuriko Robot Chatbot Disabled By {}.".format(mention_html(user.id, user.first_name)),
+                "MissAyra Robot Chatbot Disabled By {}.".format(mention_html(user.id, user.first_name)),
                 parse_mode=ParseMode.HTML,
             )
 
@@ -66,7 +66,7 @@ def kukiadd(update: Update, context: CallbackContext) -> str:
             )
         else:
             update.effective_message.edit_text(
-                "Yuriko Robot Chatbot Enabled By {}.".format(mention_html(user.id, user.first_name)),
+                "MissAyra Robot Chatbot Enabled By {}.".format(mention_html(user.id, user.first_name)),
                 parse_mode=ParseMode.HTML,
             )
 
@@ -139,7 +139,7 @@ def list_all_chats(update: Update, context: CallbackContext):
     update.effective_message.reply_text(text, parse_mode="HTML")
 
 __help__ = """
-✗ `Chatbot utilizes the` *YURIKO* `api which allows Yuriko to talk and provide a more interactive group chat experience.`
+✗ `Chatbot utilizes the` *MissAyra* `api which allows Yuriko to talk and provide a more interactive group chat experience.`
 
 *Admins only Commands*:
  
