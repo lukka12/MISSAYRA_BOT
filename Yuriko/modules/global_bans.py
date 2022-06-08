@@ -552,7 +552,7 @@ __help__ = f"""
 `Constantly help banning spammers off from your group automatically So you wont have to worry about spammers storming your group.`
 *Note:* `Users can appeal spamwatch bans at` @DeeCodeBots
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: BᴏᴛDᴜɴɪʏᴀ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*
 """
 
 GBAN_HANDLER = CommandHandler("gban", gban, run_async=True)
