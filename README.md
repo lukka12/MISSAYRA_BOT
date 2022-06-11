@@ -32,8 +32,8 @@ The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 </h2>
 
 ```console
-missayra@arch:~$ git clone https://github.com/Kashu-op/MissAyraBot
-missayra@arch:~$ cd MissAyraBot
+missayra@arch:~$ git clone https://github.com/KASHYAP-HD/MISSAYRA_BOT
+missayra@arch:~$ cd MISSAYRA_BOT
 missayra@arch:~$ pip3 install -U -r requirements.txt
 missayra@arch:~$ cp sample_config.py config.py
 ```
@@ -42,7 +42,7 @@ missayra@arch:~$ cp sample_config.py config.py
 </h2>
 
 ```console
-missayra@arch:~$ python3 -m FallenRobot
+missayra@arch:~$ python3 -m Yuriko
 ```
 -----------
 
