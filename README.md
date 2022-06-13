@@ -46,7 +46,7 @@ missayra@arch:~$ python3 -m Yuriko
 ```
 -----------
 
-<h1 align="center"><b> [@KASHYAP_IS_PRO](https://t.me/KASHYAP_IS_PRO) </b></h1>
+<a href="center"><b> [@KASHYAP_IS_PRO](https://t.me/KASHYAP_IS_PRO) ></a>
 
 # ❤️ Support
 <a href="https://t.me/HDNETWORKOP"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
