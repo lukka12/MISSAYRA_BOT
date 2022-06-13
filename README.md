@@ -1,7 +1,7 @@
 
 <h1 align="center"><b> ♡ Miss Arya Management Bot ♡ </b></h1>
 
-<h4 align="center">Miss Arya A Powerful, Smart And Simple Group Manager <br>Written with AioGram , Pyrogram and Telethon</h4>
+<h4 align="center">Miss Arya A Powerful, Smart And Simple Group Manager <br>Written with AioGram , Pyrogram and Telethon , Owner @KASHYAP_IS_PRO</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/KASHYAP-HD/MISSAYRA_BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
