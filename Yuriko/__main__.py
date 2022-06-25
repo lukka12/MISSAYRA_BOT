@@ -90,7 +90,7 @@ Hit /Help To Find Out More About How To Use Me To My Full Potential!
 乂 Ping Time: {}
 乂 {} User, Database {} Chats.
 ────────────────────────
-*Powered By:  @HdNetworkOp*
+*Powered By:  @CrazyWorldChatting*
 """
 
 buttons = [
