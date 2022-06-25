@@ -110,7 +110,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Sᴜᴍᴍᴏɴ Mᴇ", url="http://t.me/YurikoRobot?startgroup=true"),
+        InlineKeyboardButton(text="Sᴜᴍᴍᴏɴ Mᴇ", url="http://t.me/Miss_Ayra_bot?startgroup=true"),
     ],
 ]
 
@@ -126,7 +126,7 @@ HELP_STRINGS = """
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- @Kashyap_Is_Pro's 💕"""
+ @Xd_Nitric's 💕"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/hDfamaily")]]
+                [[InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/crazyworldchatting")]]
             ),
         )
         
@@ -390,10 +390,10 @@ def yurikorobot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ", url="https://t.me/hDfamaily"
+                            text="Bᴜɢ'ꜱ", url="https://t.me/crazyworldchatting"
                         ),
                         InlineKeyboardButton(
-                            text="Bᴏᴛ Lɪꜱᴛ", url="https://t.me/HDNETWORKOP"
+                            text="Bᴏᴛ Lɪꜱᴛ", url="https://t.me/Ayrabotzone"
                         ),
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="yurikorobot_back")],
@@ -420,7 +420,7 @@ def yurikorobot_about_callback(update, context):
             
             f"\n\n✗ `Firstly Add` {dispatcher.bot.first_name} `to your group by pressing` [here](http://t.me/{dispatcher.bot.username}?startgroup=true)\n"
             f"\n✗ `After adding promote me manually with full rights for faster experience.`\n"
-            f"\n✗ `Than send` `/admincache@MissAyra_Robot` `in that chat to refresh admin list in My database.`\n"
+            f"\n✗ `Than send` `/admincache@Miss_Ayra_bot` `in that chat to refresh admin list in My database.`\n"
             f"\n\n*All done now use below given button's to know about use!*\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
@@ -479,9 +479,9 @@ def yurikorobot_about_callback(update, context):
             f"\n*SETUP ASSISTANT*"
             f"\n\n✗ `1.) first, add me to your group.`"
             f"\n\n✗ `2.) then promote me as admin and give all permissions except anonymous admin.`"
-            f"\n\n✗ `3.) add` @Ayramusicbot `to your group:`"
+            f"\n\n✗ `3.) add` @Miss_Ayra_bot `to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
-            f"\n\n✗ *Lets Enjoy The Ayra Music And Join Support Group @HdFamailY*"
+            f"\n\n✗ *Lets Enjoy The Ayra Music And Join Support Group @crazyworldchatting*"
             f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: HᴅFᴀᴍᴀɪʟʏ!*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -516,11 +516,11 @@ def yurikorobot_about_callback(update, context):
                 [
                  [
                     InlineKeyboardButton(text="Lᴏɢ'ꜱ", url="t.me/AyraLogs"),
-                    InlineKeyboardButton(text="Nᴇᴡꜱ", url="t.me/HdNetworkOp"),
+                    InlineKeyboardButton(text="Nᴇᴡꜱ", url="https://t.me/Ayrabotzone"),
                  ],
                  [
-                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/hDfamaily"),
-                    InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/HDNETWORKOP"),
+                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/crazyworldchatting"),
+                    InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/Ayrabotzone"),
                  ],
                  [
                     InlineKeyboardButton(text="Back", callback_data="yurikorobot_basichelp"),
@@ -538,8 +538,8 @@ def yurikorobot_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Kᴀsʜʏᴀᴘ", url="t.me/Kashyap_Is_pro"),
-                    InlineKeyboardButton(text="Cᴀʀʙᴏɴ", url="t.me/CARBONXD"),
+                    InlineKeyboardButton(text="Kᴀsʜʏᴀᴘ", url="t.me/Xd_Nitric"),
+                    InlineKeyboardButton(text="Cᴀʀʙᴏɴ", url="t.me/COVIDBABA"),
                  ],
                  [
                     InlineKeyboardButton(text="Back", callback_data="yurikorobot_basichelp"),
